@@ -1,0 +1,26 @@
+ant
+bat
+cat
+dog
+eagle
+fox
+goat
+horse
+iguana
+jaguar
+kangaroo
+lion
+monkey
+newt
+octopus
+pig
+quail
+rabbit
+snail
+tiger
+uakari
+vulture
+wolf
+x-ray tetra
+yak
+zebra
